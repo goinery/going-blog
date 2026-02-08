@@ -11,8 +11,8 @@
 		"width": 360,
 		"height": 288,
 		"order": 1,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -177,
+		"offsetY": -86,
 		"enabled": true
 	},
 	"clockCard": {
@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -473,
+		"offsetY": 366,
 		"enabled": true
 	},
 	"shareCard": {
