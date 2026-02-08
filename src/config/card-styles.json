@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -473,
-		"offsetY": 366,
+		"offsetX": -486,
+		"offsetY": 367,
 		"enabled": true
 	},
 	"shareCard": {
@@ -61,8 +61,8 @@
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -491,
+		"offsetY": 173,
 		"enabled": true
 	},
 	"writeButtons": {
