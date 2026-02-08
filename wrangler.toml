@@ -1,6 +1,6 @@
 main = ".open-next/worker.js"
-name = "going-blog"
-compatibility_date = "2026-02-28"
+name = "2025-blog-public"
+compatibility_date = "2025-03-25"
 compatibility_flags = ["nodejs_compat"]
 
 [assets]
