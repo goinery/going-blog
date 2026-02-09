@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "aolianfei.moc3",
+		"Textures": [
+			"aolianfei.4096/texture_00.png"
+		],
+		"Physics": "aolianfei.physics3.json",
+		"DisplayInfo": "aolianfei.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

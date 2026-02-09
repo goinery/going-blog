@@ -1,0 +1,45 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "MiTa.moc3",
+		"Textures": [
+			"MiTa.4096/texture_00.png"
+		],
+		"Physics": "MiTa.physics3.json",
+		"DisplayInfo": "MiTa.cdi3.json",
+		"Motions": {
+			"idle": [
+				{
+					"File": "motions/idle.motion3.json"
+				}
+			],
+			"tap_1": [
+				{
+					"File": "motions/tap_1.motion3.json"
+				}
+			],
+			"tap_2": [
+				{
+					"File": "motions/tap_2.motion3.json"
+				}
+			],
+			"tap_3": [
+				{
+					"File": "motions/tap_3.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

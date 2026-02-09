@@ -1,0 +1,62 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "smallmita.moc3",
+		"Textures": [
+			"smallmita.4096/texture_00.png",
+			"smallmita.4096/texture_01.png"
+		],
+		"Physics": "smallmita.physics3.json",
+		"DisplayInfo": "smallmita.cdi3.json",
+		"MotionSync": "smallmita.motionsync3.json",
+		"Motions": {
+			"idle": [
+				{
+					"File": "motions/idle.motion3.json"
+				}
+			],
+			"bug": [
+				{
+					"File": "motions/bug.motion3.json"
+				}
+			],
+			"ting": [
+				{
+					"File": "motions/ting.motion3.json"
+				}
+			],
+			"wink": [
+				{
+					"File": "motions/wink.motion3.json"
+				}
+			],
+			"no": [
+				{
+					"File": "motions/no.motion3.json"
+				}
+			],
+			"tap": [
+				{
+					"File": "motions/tap.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeLSmile",
+				"ParamEyeROpen",
+				"ParamEyeRSmile"
+			]
+		}
+	]
+}

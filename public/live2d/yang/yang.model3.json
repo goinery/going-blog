@@ -1,0 +1,32 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "yang.moc3",
+		"Textures": [
+			"yang.4096/texture_00.png",
+			"yang.4096/texture_01.png",
+			"yang.4096/texture_02.png"
+		],
+		"Physics": "yang.physics3.json",
+		"DisplayInfo": "yang.cdi3.json",
+		"Motions": {
+			"x1": [
+				{
+					"File": "motions/x1.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

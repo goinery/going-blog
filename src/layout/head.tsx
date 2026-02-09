@@ -13,6 +13,8 @@ export default function Head() {
 
 			<link href='https://fonts.googleapis.cn/css2?family=Averia+Gruesa+Libre&display=swap' rel='stylesheet' />
 
+			<link href="/live2d/pio.css" rel="stylesheet" type="text/css"/>
+
 			<Script src='https://www.googletagmanager.com/gtag/js?id=G-ZNSFR7C9PM' />
 			<Script id='google-analytics'>
 				{`
