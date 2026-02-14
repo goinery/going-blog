@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "Going-blog",
+		"title": "Going's blog",
 		"description": "going 的个人博客，记录开发、探索、笔记。",
 		"username": "going"
 	},
@@ -45,6 +45,14 @@
 		{
 			"id": "f630496ddde510d5",
 			"url": "/images/background/f630496ddde510d5.webp"
+		},
+		{
+			"id": "c272abc15e1b18ac",
+			"url": "/images/background/c272abc15e1b18ac.png"
+		},
+		{
+			"id": "3034043cac726db4",
+			"url": "/images/background/3034043cac726db4.jpg"
 		}
 	],
 	"currentBackgroundImageId": "f630496ddde510d5",
